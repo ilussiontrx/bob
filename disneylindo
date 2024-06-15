@@ -1,1 +1,3 @@
-alert("mod works")
+{
+    "allowedIPs": ["45.232.61.253", ""]
+}
